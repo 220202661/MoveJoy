@@ -57,6 +57,7 @@ color: var(--pink-color);
 background-color: var(--yallow-color);
 }
 .dropdown-item{
+  background-color: rgb(26, 24, 24);
   color: white;
 }
 .nav-item:hover{
@@ -218,6 +219,7 @@ background-color: var(--dark-color);
 color: white;
 }
 .p7{
+  font-size: 20px;
 margin-left: 90px;
 background-color: var(--dark-color);
 color: white;
@@ -234,6 +236,7 @@ background-color: var(--dark-color);
 color: white;
 }
 .p8{
+  font-size: 20px;
 margin-left: 140px;
 background-color: var(--dark-color);
 color: white;
